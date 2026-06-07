@@ -1,7 +1,7 @@
 #include "dive.h"
 
-int dive(int a, int b)
+int dive(int x, int y)
 {
-	//dev/b 
-	return a/b;
+	/// dev/c modify
+	return x / y;
 }

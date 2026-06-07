@@ -1,7 +1,7 @@
 #include "mod.h"
 
-int mod(int a, int b)
+int mod(int x, int y)
 {
-	//dev/b
-	return a+b;
+	/// dev/c modify
+	return x % y;
 }
