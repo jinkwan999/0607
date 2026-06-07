@@ -2,5 +2,6 @@
 
 int mul(int x, int y)
 {
-	return 0;
+	/// dev/c modify return 0 -> return x * y
+	return x * y;
 }
