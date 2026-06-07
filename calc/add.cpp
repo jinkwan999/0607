@@ -2,5 +2,6 @@
 
 int add(int x, int y)
 {
-	return 0;
+	/// dev/a에서 수정함
+	return x + y;
 }
